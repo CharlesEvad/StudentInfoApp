@@ -1,0 +1,7 @@
+INSERT INTO StudentRecordTB (studentId, firstName, lastName, middleName, houseNo, brgyName, municipality, province, region, country, birthdate, age, studContactNo, emailAddress, guardianFirstName, guardianLastName, hobbies, nickname, courseId, yearId)
+VALUES 
+(1, 'John', 'Agbuya', 'A.', 123, 'Binalay', 'Bayambang', 'Pangasinan', 'Region I', 'Philippines', '2000-01-01', 25, '1234567890', 'john.agbuya@gmail.com', 'Jane', 'Agbuya', 'Reading', 'Johnny', 1, 1),
+(2, 'Alden', 'Richards', 'B.', 456, 'Bical Norte', 'Bayambang', 'Pangasinan', 'Region I', 'Philippines', '2001-02-02', 24, '0987654321', 'alden.richards@gmail.com', 'John', 'Richards', 'Swimming', 'Aldy', 2, 2),
+(3, 'Alice', 'Guo', 'C.', 789, 'Nalsian Norte', 'Bayambang', 'Pangasinan', 'Region I', 'Philippines', '2002-03-03', 23, '1122334455', 'alice.guo@gmail.com', 'Michael', 'Guo', 'Painting', 'Ally', 3, 3),
+(4, 'Edward', 'Agdeppa', 'D.', 101, 'Tombod', 'Bayambang', 'Pangasinan', 'Region I', 'Philippines', '2003-04-04', 22, '6677889900', 'edward.agdeppa@gmail.com', 'Sarah', 'Agdeppa', 'Cycling', 'Eddy', 4, 4),
+(5, 'Charles Dave', 'Bugarin', 'A.', 202, 'Warding', 'Bayambang', 'Pangasinan', 'Region I', 'Philippines', '2004-06-09', 21, '3344556677', 'charles.bugarin@gmail.com', 'Dave', 'Bugarin', 'Gaming', 'Cd', 1, 1);
